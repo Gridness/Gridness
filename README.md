@@ -1,5 +1,3 @@
-## DevOps Engineer
-
 - ⚓ Specializing in k8s, Helm Charts and building CI/CD pipelines with GitHub Actions and GitLab CI/CD
 - 🔍 Have experience working with monitoring systems (Prometheus, Grafana)
 - 🐳 Experienced Docker user
